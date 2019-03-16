@@ -34,7 +34,7 @@ int main()
 		}
 		count=0; 			   //count를 초기화 한 후 과정을 반복한다 
 	}
-	printf("%d번째 소수 : %d",input,i); 	// 결과값 출력 
+	printf("%d번째 소수 : %d",input,i); 	  // 결과값 출력 
 }
 
 //파이썬 소수구하기 프로그램
