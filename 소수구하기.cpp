@@ -1,4 +1,4 @@
-//C언어 소수구하기 프로그램
+//C++언어 소수구하기 프로그램
 #include <stdio.h>
 
 int main()
